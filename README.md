@@ -1,2 +1,2 @@
-# Primary_Care_Mapping_Footprint_Creation_App
-Creates the footprint shapefiles used in the Primary Care Mapping App
+# primary_care_footprints
+Creates a lookup file from lower-layer super output area (LSOA) to practice and pcn
